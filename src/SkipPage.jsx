@@ -26,7 +26,7 @@ const SkipPage = () => {
   return (
     <div className="space-y-12">
       {/* Hero Section */}
-      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-green-600 to-emerald-500 text-white">
+      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-green-600 to-emerald-500 text-white mt-4">
         <div className="absolute inset-0 bg-black/20" />
         <div className="relative px-8 py-12 md:py-16">
           <div className="max-w-3xl">
