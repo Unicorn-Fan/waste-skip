@@ -1,4 +1,4 @@
-# Garden Waste Skip Booking System
+# Waste Skip Booking System
 
 A modern, responsive web application for booking garden waste skips with a focus on user experience and eco-friendly waste management.
 
@@ -10,7 +10,7 @@ A modern, responsive web application for booking garden waste skips with a focus
 - Smooth animations and transitions using Framer Motion
 - Consistent card layouts with optimized image display
 - Clear visual hierarchy and information architecture
-- Green mode true to the agenda of the We Want Waste
+- Green mode true to the agenda of the REMWaste
 
 ### Skip Selection
 - Dynamic skip size options with real-time pricing
@@ -48,7 +48,7 @@ A modern, responsive web application for booking garden waste skips with a focus
 ### Installation
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/Unicorn-Fan/janadolf.git
 ```
 
 2. Install dependencies
