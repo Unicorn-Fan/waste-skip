@@ -48,7 +48,7 @@ A modern, responsive web application for booking garden waste skips with a focus
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Unicorn-Fan/janadolf.git
+git clone https://github.com/Unicorn-Fan/waste-skip.git
 ```
 
 2. Install dependencies
